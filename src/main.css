@@ -12,5 +12,10 @@
 <.skills = "skills">{
 
 
-  
+
+}
+wrapper {
+  max-width: 940px;
+  margin: auto;
+  background: pink;
 }
